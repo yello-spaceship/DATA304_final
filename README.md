@@ -1,4 +1,4 @@
-좋아 🙂 아래 **하나짜리 최종 README**만 그대로 복붙하면 돼!
+
 
 ```markdown
 # Amazon Product Classification — Hybrid Taxo-Fusion Pipeline
